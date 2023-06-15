@@ -1,0 +1,22 @@
+body{
+    background-color: coral;
+}
+
+.primeiro-titulo{
+    color: rgb(255, 0, 0);
+
+}
+
+.segundo-titulo{
+    color: aqua;
+}
+
+.primeiro-paragrafo{
+
+    color: antiquewhite;
+}
+
+.segundo-paragrafo{
+    color: black;
+}
+

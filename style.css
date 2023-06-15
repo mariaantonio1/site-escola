@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(142, 96, 81);
+}
+
+.primeiro-titulo{
+    color: aliceblue;
+}
+.segundo-titulo{
+    color:purple
+}
+
+.terceiro-titulo{
+    color: magenta;
+}
+
+p{
+    color: yellowgreen;
+    font-size: 210%;
+}
